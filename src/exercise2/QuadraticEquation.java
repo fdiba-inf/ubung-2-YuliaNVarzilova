@@ -24,7 +24,7 @@ public class QuadraticEquation {
 
         } else if (b != 0) {
           double x = - c / b; 
-          System.out.println("x");
+          System.out.println(x);
         } else if (c != 0) {
           System.out.println("No values");
         } else {
