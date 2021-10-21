@@ -25,7 +25,7 @@ public class DayOfWeek {
         }else if (number == 7 ){ 
           System.out.println("Day of week: Sunday");
         }else if (number <= 0 || number >= 8){ 
-          System.out.println("Invalid day");
+          System.out.println("Day of week: Invalid day");
         }
     } 
 }
